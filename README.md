@@ -1,2 +1,2 @@
 # GMA - Generator Matrix Application
-An application to generate codewords from a generator matrix.
+An application that generates codewords from a generator matrix.
