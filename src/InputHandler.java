@@ -50,8 +50,6 @@ public class InputHandler implements ActionListener, KeyListener {
 	boolean showCalculationSteps = false;
 	
 	
-	
-	
 	//classes
 	JFrame frame;
 	JPanel panel;
@@ -376,7 +374,5 @@ public class InputHandler implements ActionListener, KeyListener {
 		// TODO Auto-generated method stub
 		
 	}
-
-
 
 }
